@@ -1,0 +1,13 @@
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\bin\Debug\netstandard2.0\HaberSistemi.Data.deps.json
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\bin\Debug\netstandard2.0\HaberSistemi.Data.dll
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\obj\Debug\netstandard2.0\HaberSistemi.Data.csprojAssemblyReference.cache
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\obj\Debug\netstandard2.0\HaberSistemi.Data.csproj.CoreCompileInputs.cache
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\obj\Debug\netstandard2.0\HaberSistemi.Data.AssemblyInfoInputs.cache
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\obj\Debug\netstandard2.0\HaberSistemi.Data.AssemblyInfo.cs
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\obj\Debug\netstandard2.0\HaberSistemi.Data.csproj.CopyComplete
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\bin\Debug\netstandard2.0\HaberSistemi.Data.pdb
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\obj\Debug\netstandard2.0\HaberSistemi.Data.dll
+C:\Users\AliTo\source\repos\HaberSistemi\HaberSistemi.Data\obj\Debug\netstandard2.0\HaberSistemi.Data.pdb
